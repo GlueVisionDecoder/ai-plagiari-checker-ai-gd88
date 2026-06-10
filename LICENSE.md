@@ -1,4 +1,4 @@
-# 
+# VIP AI News Summarizer outils. Avec reconnaissance d'images et IA dans le cloud — optimisé pour des performances maximales.
 
 
 
